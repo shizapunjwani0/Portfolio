@@ -1,0 +1,193 @@
+.navbar {
+    position: fixed;
+    position: sticky;
+    background-color: rgb(73, 73, 73);;
+    border-radius: 0px solid ;
+    height: 33px;
+    align-items: center;
+    padding-top: 0px;
+}
+
+.in{
+    margin-left: 250px;
+    padding: 2px 3px;
+    font-family: 'Caveat', cursive;
+    word-spacing: 3px;
+    color: white;
+}
+.in2{
+    margin-left: 2px;
+    padding: 2px 2px;
+    font-family: 'Caveat', cursive;
+    word-spacing: 3px;
+}
+.in3{
+    margin-left: 2px;
+    padding: 2px;
+    font-family: 'Caveat', cursive;
+    word-spacing: 3px;
+}
+.in4{
+    margin-left: 500px;
+    /* padding: 100px ; */
+    font-family:'Caveat', cursive;
+    word-spacing: 3px;
+    font-size: 8;
+}
+.in5{
+    margin-left: 0px;
+    padding: 0px;
+    font-family:'Caveat', cursive;
+    /* word-spacing: 3px; */
+    /* font-size: 8; */
+}
+
+
+.rowtwo{
+    margin-left: 150px;
+    /* padding: 0px; */
+}
+
+.home{
+    margin-right: 20px;
+}
+
+
+.navbartwo{
+   margin-left: 0px;
+   margin-right: 0px;
+}
+
+.description{
+    padding: 150px;
+    background-image: url( https://img.freepik.com/free-photo/vintage-camera-pencil-open-laptop-twig-isolated-white-background_23-2147979091.jpg?w=2000 );
+    background-size: cover;
+}
+
+.secondbox{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    background-color: white;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 100px;
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    
+  }
+
+ .bg{
+    background-color: rgb(228, 255, 255);
+    display: flex;
+    align-items: center;
+    font-family: 'Inconsolata', monospace;
+ }
+
+ .bar{
+    padding: 40px;
+    text-align:left;
+ }
+
+ .div{
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    font-family: 'Inconsolata', monospace;
+ }
+
+ .inn{
+    padding: 150px;
+ }
+
+
+ .bartwo{
+    align-items: center;
+    margin-top: 80px;
+    padding-left: 350px;
+ }
+
+ .br{
+    align-items: center;
+ }
+
+
+.imgA {
+    width: 200px;
+}
+
+.imgB{
+    width: 200px;
+}
+
+.imgC{
+    width: 200px;
+}
+
+.imga{
+    width: 500px;
+}
+
+.imgb{
+    width: 200px;
+}
+
+.button{
+    align-items: center;
+}
+
+.descriptiontwo{
+    padding: 150px;
+    background-image: url( https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80);
+    background-size: cover;
+}
+
+.b{
+    display: flex;
+}
+
+.divv{
+ align-items: center;
+ padding: 150px;
+ margin-left: 150px;
+}
+
+.colr{
+    background-color: rgb(17, 62, 17);
+}
+
+.g{
+    background-color: gray;
+}
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
